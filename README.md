@@ -2,13 +2,11 @@
 
 ## Desenvolvedor Full-Stack
 
+## [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,ts,ps,git,github,bootstrap)](https://skillicons.dev)
+
 Meu nome é Vinicius Araújo. Sou Desenvolvedor e formado em técnico em Desenvolvimento de Sistemas, atualmente estou continuando minha formação acadêmica no ensino superior atuando em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo. Além disso tenho cursos livres na área pela UNICAMP, UFSCAR, Centro Paula Souza, IFPA, IFAP e IFES. Sou apaixonado por cultura Geek, Games e música. 
 
 Minha primeira experiencia com código foi no técnico. Lembro que não sabia de absolutamente nada de programação até me avançar no curso. Eu costumava passar horas tentando personalizar os meus sites e formatar os códigos, e nem conseguia ver o tempo passar. Então, ver que eu estou evoluindo é muita gratidão e felicidade que eu sinto. E espero levar a programação para ajudar a minha comunidade!
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,ts,ps,git,github,bootstrap)](https://skillicons.dev)
 
 
 ![varaujod's Stats](https://github-readme-stats.vercel.app/api?username=varaujod&theme=solarized-light&show_icons=true&hide_border=false&count_private=true)
