@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Full-Stack
 
-## [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,db,sql,php,ts,ps,git,github,bootstrap)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,c,php,ts,ps,git,github,bootstrap)](https://skillicons.dev)
 
 Meu nome é Vinicius Araújo. Sou Desenvolvedor e formado em técnico em Desenvolvimento de Sistemas na Etec Sales Gomes, atualmente estou continuando minha formação acadêmica no ensino superior atuando em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo. Além disso tenho cursos livres na área pela UNICAMP, UFSCAR, Centro Paula Souza, IFPA, IFAP e IFES. Sou apaixonado por cultura Geek, Games e música. 
 
