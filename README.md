@@ -9,7 +9,7 @@ Meu nome é Vinicius Araújo. Sou Desenvolvedor e formado em técnico em Desenvo
 Minha primeira experiencia com código foi no técnico. Lembro que não sabia de absolutamente nada de programação até me avançar no curso. Eu costumava passar horas tentando personalizar os meus sites e formatar os códigos, e nem conseguia ver o tempo passar. Então, ver que eu estou evoluindo é muita gratidão e felicidade que eu sinto. E espero levar a programação para ajudar a minha comunidade!
 
 
-![varaujod's Stats](https://github-readme-stats.vercel.app/api?username=varaujod&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true) ![varaujod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varaujod&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+![varaujod's Stats](https://github-readme-stats.vercel.app/api?username=varaujod&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true) ![varaujod's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varaujod&theme=shades-of-purple&show_icons=true&hide_border=true)
 
 
 ## Conheça minha jornada nas redes!
